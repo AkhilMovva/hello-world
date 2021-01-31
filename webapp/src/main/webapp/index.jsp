@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h3> Akhil Changed for the deployment in VM </h3>
-<h3> Akhil changed for the ansible </h3>
+<h3> Akhil changed for the ansible and deploying on QA server </h3>
